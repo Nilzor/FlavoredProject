@@ -5,7 +5,7 @@ A test project containing different flavors and variants intended for testing th
 The project contains the following modules with the following flavors-build-variant setups:
 
 |Module|Dimension1|Dimension2|BuildTypes|
-|---|---|---|
+|---|---|---|--|
 |:app|dev/qa/prod|-|debug/release|
 |:bravo|dev/qa/prod|-|debug/release|
 |:bravo:SubBravo|-|-|debug/release|
